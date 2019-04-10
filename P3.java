@@ -21,15 +21,6 @@ class P3
 		System.out.println("a%b ="+(a%b));
 		System.out.println("");
 		
-		System.out.println("a==b is "+(a==b));
-		System.out.println("a!=b is "+(a!=b));		
-		System.out.println("a>b is "+(a>b));
-		System.out.println("a>=b is "+(a>=b));
-		System.out.println("a<b is "+(a<b));
-		System.out.println("a<=b is "+(a<=b));
-		System.out.println("");
-
-		
 	}
 
 }
